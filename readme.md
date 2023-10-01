@@ -1,3 +1,3 @@
-# readme (please (begging))
+# readme
 
 nick, nicolas.delatorre@wsu.edu
